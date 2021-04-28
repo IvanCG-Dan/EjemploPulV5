@@ -1,0 +1,4 @@
+Added Component: Designator=SW20(Push Button SMD - Large)
+Added Pin To Net: NetName=RESETN Pin=SW20-1
+Added Pin To Net: NetName=GND Pin=SW20-2
+Added Member To Class: ClassName=S2 Member=Component SW20 95C04A3GWRT

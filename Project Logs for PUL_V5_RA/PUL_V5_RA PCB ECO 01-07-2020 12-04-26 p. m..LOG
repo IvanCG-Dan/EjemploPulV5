@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT Pin=P11-1
+Removed Member From Class: ClassName=S1 Member=P11
+Added Pin To Net: NetName=VBAT Pin=U11-3
+Added Room: Name=S4

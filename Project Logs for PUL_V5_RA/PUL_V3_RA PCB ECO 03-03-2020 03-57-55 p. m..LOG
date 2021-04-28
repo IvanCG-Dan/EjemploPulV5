@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Added Component: Designator=J20(TC2030-MCP-NL)
+Added Component: Designator=R21(0402_RES)
+Added Component: Designator=R22(0402_RES)
+Added Component: Designator=R23(0402_RES)
+Added Pin To Net: NetName=NetC20_1 Pin=J20-3
+Added Pin To Net: NetName=GND Pin=J20-5
+Added Pin To Net: NetName=NetC20_1 Pin=R22-1
+Change Net Name : Old Net Name=NetC20_1 New Net Name=RESETN
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR25_2
+Added Pin To Net: NetName=SWCLK Pin=J20-4
+Added Pin To Net: NetName=SWCLK Pin=R21-1
+Added Pin To Net: NetName=SWCLK Pin=U20-30
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J20-2
+Added Pin To Net: NetName=SWDIO Pin=R23-1
+Added Pin To Net: NetName=SWDIO Pin=U20-31
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VMCU Pin=J20-1
+Added Pin To Net: NetName=VMCU Pin=R21-2
+Added Pin To Net: NetName=VMCU Pin=R22-2
+Added Pin To Net: NetName=VMCU Pin=R23-2
+Added Net: Name=VMCU
+Added Member To Class: ClassName=S2 Member=Component J20 ICSP
+Added Member To Class: ClassName=S2 Member=Component R26 CRCW06030000Z0EAHP
+Added Member To Class: ClassName=S2 Member=Component R27 ERJ-2GEJ751X
+Added Member To Class: ClassName=S2 Member=Component R28 ERJ-2GEJ751X

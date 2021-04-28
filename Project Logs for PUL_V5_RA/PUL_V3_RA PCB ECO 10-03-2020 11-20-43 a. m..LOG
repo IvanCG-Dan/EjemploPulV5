@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=X20-1
+Removed Pin From Net: NetName=GND Pin=X20-3
+Removed Pin From Net: NetName=NetR38_2 Pin=X30-1
+Removed Pin From Net: NetName=GND Pin=X30-3
+Added Component: Designator=R24(0402_RES)
+Added Component: Designator=R25(0402_RES)
+Added Component: Designator=R27(0402_RES)
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=VCC3V3 Pin=R27-1
+Added Pin To Net: NetName=NetC22_1 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=X20-1
+Added Pin To Net: NetName=NetC21_1 Pin=X20-3
+Added Pin To Net: NetName=GND Pin=X30-1
+Added Pin To Net: NetName=NetR38_2 Pin=X30-3
+Added Member To Class: ClassName=S2 Member=Component R24 PANASONIC ELECTRONIC COMPONENTS
+Added Member To Class: ClassName=S2 Member=Component R25 PANASONIC ELECTRONIC COMPONENTS
+Added Member To Class: ClassName=S2 Member=Component R27 PANASONIC ELECTRONIC COMPONENTS
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S5

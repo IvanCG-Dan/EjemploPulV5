@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetR26_1 Pin=R26-1
+Removed Pin From Net: NetName=TX Pin=R26-2
+Removed Pin From Net: NetName=NetR27_1 Pin=R27-1
+Removed Pin From Net: NetName=RX Pin=R27-2
+Removed Member From Class: ClassName=S2 Member=R?
+Change Component Comment : Designator=R28 Old Comment=CRCW040210K0FKTD New Comment=PANASONIC ELECTRONIC COMPONENTS
+Change Component Comment : Designator=R26 Old Comment=PANASONIC ELECTRONIC COMPONENTS New Comment=CRCW040210K0FKTD
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=TX Pin=R26-2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=RX Pin=R27-2
+Added Pin To Net: NetName=PUSH Pin=R28-1
+Added Pin To Net: NetName=3V3 Pin=R28-2
+Added Pin To Net: NetName=3V3 Pin=R29-1
+Added Pin To Net: NetName=NetC22_1 Pin=R29-2
+Added Member To Class: ClassName=S2 Member=Component R28 CRCW040210K0FKTD
+Added Member To Class: ClassName=S2 Member=Component R29 PANASONIC ELECTRONIC COMPONENTS

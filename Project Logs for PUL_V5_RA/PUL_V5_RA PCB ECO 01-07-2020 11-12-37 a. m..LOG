@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Change Component Footprint: Designator=P11 Old Footprint=JUMPER2.54 New Footprint=HDR1X2sin
+Change Component Footprint: Designator=SW20 Old Footprint=Push Button SMD - Large New Footprint=Push Button SMDsin
+Added Pin To Net: NetName=NetU20_5 Pin=U20-5
+Added Net: Name=NetU20_5
+Added Member To Class: ClassName=S1 Member=Component P11 452-00009
+Added Member To Class: ClassName=S2 Member=Component SW20 95C04A3GWRT
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S3
+Added Room: Name=S4

@@ -1,0 +1,13 @@
+Added Component: Designator=X20(U.FL)
+Added Component: Designator=X30(U.FL)
+Added Pin To Net: NetName=NetC21_1 Pin=X20-1
+Added Pin To Net: NetName=GND Pin=X20-2
+Added Pin To Net: NetName=GND Pin=X20-3
+Added Pin To Net: NetName=NetR38_2 Pin=X30-1
+Added Pin To Net: NetName=GND Pin=X30-2
+Added Pin To Net: NetName=GND Pin=X30-3
+Added Member To Class: ClassName=S2 Member=Component C21 GCQ1555C1H470JB01D
+Added Member To Class: ClassName=S2 Member=Component X20 RECE.20279.001E.01
+Added Member To Class: ClassName=S5 Member=Component X30 RECE.20279.001E.01
+Added Room: Name=S1
+Added Room: Name=S2

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Added Component: Designator=C51(C0402)
+Added Pin To Net: NetName=3V3 Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=NetU50_6 Pin=U50-6
+Added Net: Name=NetU50_6
+Added Member To Class: ClassName=S4 Member=Component C51 ZRB15XR61A106ME01D

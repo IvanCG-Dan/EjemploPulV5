@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetCR20_K Pin=R30-2
+Removed Pin From Net: NetName=NetCR21_K Pin=R31-1
+Removed Pin From Net: NetName=NetC30_1 Pin=SW30-1
+Removed Pin From Net: NetName=NetC30_1 Pin=SW30-1
+Removed Pin From Net: NetName=GND Pin=SW30-2
+Removed Pin From Net: NetName=GND Pin=SW30-2
+Removed Member From Class: ClassName=S3 Member=SW30
+Added Component: Designator=CR10(0402-LED_RED)
+Added Component: Designator=CR11(0402-LED_GRE)
+Added Component: Designator=CR20(0603_LED)
+Added Component: Designator=CR21(0603_LED)
+Added Pin To Net: NetName=USB_5V Pin=CR10-A
+Added Pin To Net: NetName=NetCR10_K Pin=CR10-K
+Added Pin To Net: NetName=NetCR11_A Pin=CR11-A
+Added Pin To Net: NetName=GND Pin=CR11-K
+Added Pin To Net: NetName=LED2 Pin=CR20-A
+Added Pin To Net: NetName=NetCR20_K Pin=CR20-K
+Added Pin To Net: NetName=LED1 Pin=CR21-A
+Added Pin To Net: NetName=NetCR21_K Pin=CR21-K
+Added Pin To Net: NetName=NetCR21_K Pin=R30-2
+Added Pin To Net: NetName=NetCR20_K Pin=R31-1
+Added Member To Class: ClassName=S1 Member=Component CR10 Led_Orange_0402
+Added Member To Class: ClassName=S1 Member=Component CR11 SML-P11MTT86R
+Added Member To Class: ClassName=S2 Member=Component CR20 KO DELLS1.22-KHLI-24
+Added Member To Class: ClassName=S2 Member=Component CR21 KG DELMS1.22-PHQI-24-E6L6

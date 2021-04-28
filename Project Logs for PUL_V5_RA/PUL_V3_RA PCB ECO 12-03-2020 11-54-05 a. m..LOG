@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Added Component: Designator=P?(JUMPER2.54)
+Added Pin To Net: NetName=VBAT Pin=P?-1
+Added Pin To Net: NetName=NetP11_2 Pin=P?-2
+Change Net Name : Old Net Name=NetP11_2 New Net Name=NetP?_2
+Added Member To Class: ClassName=S1 Member=Component P? 452-00009
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S5

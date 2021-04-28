@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-3
+Added Pin To Net: NetName=GND Pin=U20-10
+Added Pin To Net: NetName=GND Pin=U20-17
+Added Pin To Net: NetName=GND Pin=U20-18
+Added Pin To Net: NetName=GND Pin=U20-28
+Added Pin To Net: NetName=GND Pin=U20-35
+Added Pin To Net: NetName=GND Pin=U20-36
+Added Pin To Net: NetName=GND Pin=U20-37
+Added Pin To Net: NetName=GND Pin=U20-38
+Added Pin To Net: NetName=GND Pin=U20-39
+Added Pin To Net: NetName=GND Pin=U20-40
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S5

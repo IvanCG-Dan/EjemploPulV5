@@ -1,0 +1,13 @@
+Added Component: Designator=U50(MOD_BM70BLES1FC2)
+Added Pin To Net: NetName=GND Pin=U50-1
+Added Pin To Net: NetName=GND Pin=U50-2
+Added Pin To Net: NetName=GND Pin=U50-3
+Added Pin To Net: NetName=NetC51_1 Pin=U50-4
+Added Pin To Net: NetName=NetC50_1 Pin=U50-21
+Added Pin To Net: NetName=RX Pin=U50-22
+Added Pin To Net: NetName=TX Pin=U50-23
+Added Pin To Net: NetName=NetU20_4 Pin=U50-28
+Added Pin To Net: NetName=NetU20_5 Pin=U50-30
+Added Pin To Net: NetName=GND Pin=U50-32
+Added Pin To Net: NetName=GND Pin=U50-33
+Added Member To Class: ClassName=S4 Member=Component U50 MODULE BM70BLES1FC2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Added Component: Designator=P11(HDR1X2sin)
+Added Component: Designator=SW20(Push Button SMDsin)
+Added Pin To Net: NetName=VBAT Pin=P11-1
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=RESETN Pin=SW20-1
+Added Pin To Net: NetName=GND Pin=SW20-2
+Added Member To Class: ClassName=S1 Member=Component P11 452-00009
+Added Member To Class: ClassName=S2 Member=Component SW20 95C04A3GWRT

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Removed Pin From Net: NetName=GND Pin=U30-GND
+Added Component: Designator=U50(RN4871-I/RM140)
+Added Pin To Net: NetName=GND Pin=U50-2
+Added Pin To Net: NetName=RX Pin=U50-7
+Added Pin To Net: NetName=TX Pin=U50-8
+Added Pin To Net: NetName=NetC50_1 Pin=U50-10
+Added Pin To Net: NetName=GND Pin=U50-13
+Added Pin To Net: NetName=NetR50_1 Pin=U50-14
+Added Pin To Net: NetName=P2_0 Pin=U50-16
+Added Member To Class: ClassName=S1 Member=Component C16 F981A106MMA
+Added Member To Class: ClassName=S3 Member=Component C30 100 nF, 10 V
+Added Member To Class: ClassName=S1 Member=Component P11 452-00009
+Added Member To Class: ClassName=S2 Member=Component R26 PANASONIC ELECTRONIC COMPONENTS
+Added Member To Class: ClassName=S2 Member=Component R27 PANASONIC ELECTRONIC COMPONENTS
+Added Member To Class: ClassName=S3 Member=Component R33 CRCW040210K0FKTD
+Added Member To Class: ClassName=S3 Member=Component SW30 EVQ-P6LB55
+Added Member To Class: ClassName=S1 Member=Component U10 MCP73831T-2ACI/OT
+Added Member To Class: ClassName=S4 Member=Component U50 RN4871-I/RM140

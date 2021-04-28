@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PUL_V5_RA.PrjPcb]
+   Generated File[PUL_V5_RA-Plated.TXT]
+   Generated File[PUL_V5_RA-NonPlated.TXT]
+   Generated File[PUL_V5_RA.DRL]
+   Generated File[PUL_V5_RA.LDP]
+   Generated File[PUL_V5_RA.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:23:58 a. m. On 10/07/2020
